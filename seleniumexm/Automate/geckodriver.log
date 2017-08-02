@@ -1,0 +1,558 @@
+1501657193001	geckodriver	INFO	Listening on 127.0.0.1:48409
+1501657194119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657197410	Marionette	INFO	Listening on port 34589
+1501657197456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501657297257	geckodriver	INFO	Listening on 127.0.0.1:33679
+1501657298372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657301756	Marionette	INFO	Listening on port 37967
+1501657301808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501657369031	geckodriver	INFO	Listening on 127.0.0.1:50257
+1501657370118	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657373455	Marionette	INFO	Listening on port 41935
+1501657373562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501657610101	geckodriver	INFO	Listening on 127.0.0.1:42523
+1501657611226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657614558	Marionette	INFO	Listening on port 37305
+1501657614658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501657679213	geckodriver	INFO	Listening on 127.0.0.1:53595
+1501657680318	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657683656	Marionette	INFO	Listening on port 45863
+1501657683779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501657704645	Marionette	INFO	Ceased listening
+1501657899872	geckodriver	INFO	Listening on 127.0.0.1:36097
+1501657900989	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501657904368	Marionette	INFO	Listening on port 40347
+1501657904425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658093632	geckodriver	INFO	Listening on 127.0.0.1:51109
+1501658094757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658098058	Marionette	INFO	Listening on port 37413
+1501658098110	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501658145121	geckodriver	INFO	Listening on 127.0.0.1:49529
+1501658146232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658149517	Marionette	INFO	Listening on port 32893
+1501658149567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658151924	Marionette	INFO	Ceased listening
+1501658185299	geckodriver	INFO	Listening on 127.0.0.1:51779
+1501658186412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658189794	Marionette	INFO	Listening on port 44077
+1501658189847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658225515	geckodriver	INFO	Listening on 127.0.0.1:35907
+1501658226639	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658229991	Marionette	INFO	Listening on port 33515
+1501658230107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658235056	geckodriver	INFO	Listening on 127.0.0.1:35503
+1501658236172	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658239532	Marionette	INFO	Listening on port 35997
+1501658239647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 536: TypeError: this.tablesData[table] is undefined
+1501658243075	Marionette	INFO	Ceased listening
+1501658250621	geckodriver	INFO	Listening on 127.0.0.1:44489
+1501658251740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658255124	Marionette	INFO	Listening on port 33587
+1501658255170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658260194	geckodriver	INFO	Listening on 127.0.0.1:41489
+1501658261318	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658265467	Marionette	INFO	Listening on port 37487
+1501658265821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658268096	Marionette	INFO	Ceased listening
+1501658329457	geckodriver	INFO	Listening on 127.0.0.1:39137
+1501658330579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658333855	Marionette	INFO	Listening on port 34211
+1501658333906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658398732	geckodriver	INFO	Listening on 127.0.0.1:42771
+1501658399854	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658403095	Marionette	INFO	Listening on port 36709
+1501658403192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658408176	geckodriver	INFO	Listening on 127.0.0.1:56929
+1501658409294	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658412452	Marionette	INFO	Listening on port 42085
+1501658412559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658414740	Marionette	INFO	Ceased listening
+1501658441014	geckodriver	INFO	Listening on 127.0.0.1:36107
+1501658442130	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658445369	Marionette	INFO	Listening on port 37267
+1501658445476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658466442	geckodriver	INFO	Listening on 127.0.0.1:38437
+1501658467515	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658470825	Marionette	INFO	Listening on port 42033
+1501658470936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658547458	Marionette	INFO	Ceased listening
+1501658550983	Marionette	INFO	Ceased listening
+1501658555841	Marionette	INFO	Ceased listening
+1501658592898	geckodriver	INFO	Listening on 127.0.0.1:49513
+1501658594019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658597421	Marionette	INFO	Listening on port 33849
+1501658597474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658607231	geckodriver	INFO	Listening on 127.0.0.1:49205
+1501658608298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658611394	Marionette	INFO	Listening on port 35803
+1501658611435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658616356	geckodriver	INFO	Listening on 127.0.0.1:40687
+1501658617466	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658620725	Marionette	INFO	Listening on port 37613
+1501658620826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658644062	geckodriver	INFO	Listening on 127.0.0.1:46473
+1501658645168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658648703	Marionette	INFO	Listening on port 46737
+1501658648809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658659766	geckodriver	INFO	Listening on 127.0.0.1:42889
+1501658660888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658664303	Marionette	INFO	Listening on port 37937
+1501658664417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658669236	geckodriver	INFO	Listening on 127.0.0.1:58839
+1501658670358	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658673647	Marionette	INFO	Listening on port 37059
+1501658673693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658799261	Marionette	INFO	Ceased listening
+1501658801577	Marionette	INFO	Ceased listening
+1501658804756	Marionette	INFO	Ceased listening
+1501658812864	geckodriver	INFO	Listening on 127.0.0.1:39831
+1501658813982	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658817369	Marionette	INFO	Listening on port 44291
+1501658817420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658824531	geckodriver	INFO	Listening on 127.0.0.1:54289
+1501658825655	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658829071	Marionette	INFO	Listening on port 41611
+1501658829172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658833789	geckodriver	INFO	Listening on 127.0.0.1:44531
+1501658834853	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501658838044	Marionette	INFO	Listening on port 45427
+1501658838093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501658852442	Marionette	INFO	Ceased listening
+1501658854317	Marionette	INFO	Ceased listening
+1501658856029	Marionette	INFO	Ceased listening
+1501659312485	geckodriver	INFO	Listening on 127.0.0.1:55671
+1501659313606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659316983	Marionette	INFO	Listening on port 43595
+1501659317040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659322106	geckodriver	INFO	Listening on 127.0.0.1:42319
+1501659323222	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659326669	Marionette	INFO	Listening on port 33763
+1501659326766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659331578	geckodriver	INFO	Listening on 127.0.0.1:39881
+1501659332697	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659336343	Marionette	INFO	Listening on port 35991
+1501659336456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659450540	Marionette	INFO	Ceased listening
+1501659452426	Marionette	INFO	Ceased listening
+1501659453409	Marionette	INFO	Ceased listening
+1501659568780	geckodriver	INFO	Listening on 127.0.0.1:50499
+1501659569897	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659573212	Marionette	INFO	Listening on port 39899
+1501659573317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659578285	geckodriver	INFO	Listening on 127.0.0.1:50575
+1501659579397	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659582792	Marionette	INFO	Listening on port 45731
+1501659582844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659587678	geckodriver	INFO	Listening on 127.0.0.1:41437
+1501659588799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659592240	Marionette	INFO	Listening on port 43253
+1501659592356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501659971927	geckodriver	INFO	Listening on 127.0.0.1:34369
+1501659973037	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501659976333	Marionette	INFO	Listening on port 46147
+1501659976383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501660049229	Marionette	INFO	Ceased listening
+1501660055679	Marionette	INFO	Ceased listening
+1501660060619	Marionette	INFO	Ceased listening
+1501660064202	Marionette	INFO	Ceased listening
+1501660446044	geckodriver	INFO	Listening on 127.0.0.1:55523
+1501660447162	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501660450514	Marionette	INFO	Listening on port 34327
+1501660450626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501660478798	Marionette	INFO	Ceased listening
+1501660575563	geckodriver	INFO	Listening on 127.0.0.1:38335
+1501660576686	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501660580057	Marionette	INFO	Listening on port 43399
+1501660580117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501660586034	geckodriver	INFO	Listening on 127.0.0.1:33373
+1501660587155	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501660590624	Marionette	INFO	Listening on port 34803
+1501660590726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501660700925	Marionette	INFO	Ceased listening
+1501660702756	Marionette	INFO	Ceased listening
+1501660897783	geckodriver	INFO	Listening on 127.0.0.1:55917
+1501660898908	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501660902512	Marionette	INFO	Listening on port 37193
+1501660902565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661107186	geckodriver	INFO	Listening on 127.0.0.1:44009
+1501661108299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501661111640	Marionette	INFO	Listening on port 35527
+1501661111750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661256974	geckodriver	INFO	Listening on 127.0.0.1:47941
+1501661258093	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501661261400	Marionette	INFO	Listening on port 44829
+1501661261444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661268479	geckodriver	INFO	Listening on 127.0.0.1:42001
+1501661269579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501661272858	Marionette	INFO	Listening on port 39251
+1501661272907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661277112	Marionette	INFO	Ceased listening
+1501661301720	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501661451764	geckodriver	INFO	Listening on 127.0.0.1:39289
+1501661452866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501661456069	Marionette	INFO	Listening on port 44035
+1501661456119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661506835	geckodriver	INFO	Listening on 127.0.0.1:43675
+1501661507959	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501661511259	Marionette	INFO	Listening on port 33499
+1501661511316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501661524795	Marionette	INFO	Ceased listening
+1501661528018	Marionette	INFO	Ceased listening
+1501661530496	Marionette	INFO	Ceased listening
+1501661540257	Marionette	INFO	Ceased listening
+1501663964768	geckodriver	INFO	Listening on 127.0.0.1:43333
+1501663965922	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501663969600	Marionette	INFO	Listening on port 44399
+1501663969724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501663974701	geckodriver	INFO	Listening on 127.0.0.1:42477
+1501663975818	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501663979206	Marionette	INFO	Listening on port 44493
+1501663979256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501663984106	geckodriver	INFO	Listening on 127.0.0.1:48709
+1501663985225	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501663988556	Marionette	INFO	Listening on port 33411
+1501663988667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501663997240	Marionette	INFO	Ceased listening
+1501663997336	Marionette	INFO	Ceased listening
+1501664199151	geckodriver	INFO	Listening on 127.0.0.1:40875
+1501664200277	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501664203582	Marionette	INFO	Listening on port 45543
+1501664203641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501664215646	geckodriver	INFO	Listening on 127.0.0.1:57051
+1501664216757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501664220121	Marionette	INFO	Listening on port 34481
+1501664220233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501664229330	Marionette	INFO	Ceased listening
+1501664237593	Marionette	INFO	Ceased listening
+1501664698855	geckodriver	INFO	Listening on 127.0.0.1:33591
+1501664699947	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501664703162	Marionette	INFO	Listening on port 37291
+1501664703274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501664748166	Marionette	INFO	Ceased listening
+1501665030567	geckodriver	INFO	Listening on 127.0.0.1:41209
+1501665031689	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665034987	Marionette	INFO	Listening on port 44475
+1501665035037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665041753	geckodriver	INFO	Listening on 127.0.0.1:58379
+1501665042866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665046028	Marionette	INFO	Listening on port 43707
+1501665046132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665084811	Marionette	INFO	Ceased listening
+1501665087381	Marionette	INFO	Ceased listening
+1501665096075	geckodriver	INFO	Listening on 127.0.0.1:35503
+1501665097199	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665100597	Marionette	INFO	Listening on port 37497
+1501665100695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665137398	geckodriver	INFO	Listening on 127.0.0.1:33997
+1501665138508	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665141767	Marionette	INFO	Listening on port 41441
+1501665141875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665214306	geckodriver	INFO	Listening on 127.0.0.1:46579
+1501665215420	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665218706	Marionette	INFO	Listening on port 43995
+1501665218755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665256107	Marionette	INFO	Ceased listening
+1501665257671	Marionette	INFO	Ceased listening
+1501665259795	Marionette	INFO	Ceased listening
+1501665378627	geckodriver	INFO	Listening on 127.0.0.1:42661
+1501665379748	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665383051	Marionette	INFO	Listening on port 46495
+1501665383105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665537128	geckodriver	INFO	Listening on 127.0.0.1:60347
+1501665538239	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665541462	Marionette	INFO	Listening on port 37989
+1501665541561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665584945	Marionette	INFO	Ceased listening
+1501665587096	Marionette	INFO	Ceased listening
+1501665629217	geckodriver	INFO	Listening on 127.0.0.1:54507
+1501665630336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665633596	Marionette	INFO	Listening on port 43671
+1501665633700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665706578	Marionette	INFO	Ceased listening
+1501665872412	geckodriver	INFO	Listening on 127.0.0.1:40453
+1501665873537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665876865	Marionette	INFO	Listening on port 34325
+1501665876979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665892156	Marionette	INFO	Ceased listening
+1501665955647	geckodriver	INFO	Listening on 127.0.0.1:35875
+1501665956714	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501665963008	Marionette	INFO	Listening on port 42517
+1501665963051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501665983740	Marionette	INFO	Ceased listening
+1501667186154	geckodriver	INFO	Listening on 127.0.0.1:50019
+1501667187278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667190574	Marionette	INFO	Listening on port 42121
+1501667190620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667197184	geckodriver	INFO	Listening on 127.0.0.1:34051
+1501667198279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667201545	Marionette	INFO	Listening on port 44657
+1501667201644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667209066	Marionette	INFO	Ceased listening
+1501667724887	geckodriver	INFO	Listening on 127.0.0.1:34539
+1501667726007	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667729334	Marionette	INFO	Listening on port 33699
+1501667729450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667736716	geckodriver	INFO	Listening on 127.0.0.1:58543
+1501667737823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667741007	Marionette	INFO	Listening on port 36549
+1501667741060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667778239	geckodriver	INFO	Listening on 127.0.0.1:52417
+1501667779361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667782763	Marionette	INFO	Listening on port 33419
+1501667782815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667839351	geckodriver	INFO	Listening on 127.0.0.1:50945
+1501667840418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667843642	Marionette	INFO	Listening on port 46317
+1501667843757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667849473	geckodriver	INFO	Listening on 127.0.0.1:59445
+1501667850586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501667853988	Marionette	INFO	Listening on port 35477
+1501667854092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501667860535	Marionette	INFO	Ceased listening
+1501667861694	Marionette	INFO	Ceased listening
+1501667863964	Marionette	INFO	Ceased listening
+1501668194554	geckodriver	INFO	Listening on 127.0.0.1:55171
+1501668195675	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668199019	Marionette	INFO	Listening on port 45561
+1501668199136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668241360	geckodriver	INFO	Listening on 127.0.0.1:41619
+1501668242471	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668245919	Marionette	INFO	Listening on port 35083
+1501668246028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668322026	geckodriver	INFO	Listening on 127.0.0.1:58911
+1501668323149	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668326512	Marionette	INFO	Listening on port 45023
+1501668326626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668349220	geckodriver	INFO	Listening on 127.0.0.1:44297
+1501668350288	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668353143	Marionette	INFO	Ceased listening
+1501668353652	Marionette	INFO	Listening on port 43999
+1501668353721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668359471	Marionette	INFO	Ceased listening
+1501668362774	Marionette	INFO	Ceased listening
+1501668369525	Marionette	INFO	Ceased listening
+1501668434583	geckodriver	INFO	Listening on 127.0.0.1:55903
+1501668435703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668439124	Marionette	INFO	Listening on port 42575
+1501668439241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668460345	geckodriver	INFO	Listening on 127.0.0.1:39103
+1501668461412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668464716	Marionette	INFO	Listening on port 40361
+1501668464768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668535552	geckodriver	INFO	Listening on 127.0.0.1:51575
+1501668536672	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668539973	Marionette	INFO	Listening on port 33227
+1501668540032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668576210	geckodriver	INFO	Listening on 127.0.0.1:58033
+1501668577296	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668579809	Marionette	INFO	Ceased listening
+1501668580594	Marionette	INFO	Listening on port 32991
+1501668580645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668585087	Marionette	INFO	Ceased listening
+1501668588196	geckodriver	INFO	Listening on 127.0.0.1:46553
+1501668589317	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668592696	Marionette	INFO	Listening on port 36531
+1501668592752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668610798	geckodriver	INFO	Listening on 127.0.0.1:34211
+1501668611913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501668615137	Marionette	INFO	Listening on port 38661
+1501668615265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501668629483	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501669243829	Marionette	INFO	Ceased listening
+1501669273259	geckodriver	INFO	Listening on 127.0.0.1:56651
+1501669274383	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669277667	Marionette	INFO	Listening on port 39163
+1501669277708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501669294221	geckodriver	INFO	Listening on 127.0.0.1:54137
+1501669295340	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669298656	Marionette	INFO	Listening on port 45463
+1501669298765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501669533271	Marionette	INFO	Ceased listening
+1501669537318	Marionette	INFO	Ceased listening
+1501669618007	geckodriver	INFO	Listening on 127.0.0.1:38215
+1501669619121	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669622455	Marionette	INFO	Listening on port 38387
+1501669622571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501669639500	geckodriver	INFO	Listening on 127.0.0.1:53061
+1501669640620	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669643901	Marionette	INFO	Listening on port 39699
+1501669643958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501669696987	geckodriver	INFO	Listening on 127.0.0.1:39177
+1501669698111	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669701347	Marionette	INFO	Listening on port 42551
+1501669701458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501669717679	geckodriver	INFO	Listening on 127.0.0.1:32975
+1501669718749	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501669721948	Marionette	INFO	Listening on port 32939
+1501669721997	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501670257934	Marionette	INFO	Ceased listening
+1501670263907	Marionette	INFO	Ceased listening
+1501670268754	Marionette	INFO	Ceased listening
+1501670272023	Marionette	INFO	Ceased listening
+1501670329132	geckodriver	INFO	Listening on 127.0.0.1:52921
+1501670330255	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670333639	Marionette	INFO	Listening on port 44457
+1501670333687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501670352288	geckodriver	INFO	Listening on 127.0.0.1:54199
+1501670353403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670356682	Marionette	INFO	Listening on port 43369
+1501670356730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501670403446	Marionette	INFO	Ceased listening
+1501670408690	Marionette	INFO	Ceased listening
+1501670499601	geckodriver	INFO	Listening on 127.0.0.1:55553
+1501670500719	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670504039	Marionette	INFO	Listening on port 38223
+1501670504145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501670529491	geckodriver	INFO	Listening on 127.0.0.1:57097
+1501670530606	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670533879	Marionette	INFO	Listening on port 43751
+1501670533937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501670667667	geckodriver	INFO	Listening on 127.0.0.1:35259
+1501670668771	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670671747	Marionette	INFO	Listening on port 36005
+1501670671797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501670690086	geckodriver	INFO	Listening on 127.0.0.1:53301
+1501670691198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501670694082	Marionette	INFO	Listening on port 45941
+1501670694127	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
