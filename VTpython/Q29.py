@@ -7,10 +7,10 @@ def matched(str):
 	for i in range(0,len(str)):
 		l = str[i]
 		if l == "{":
-        		ope = ope + ["("]
+        		ope = ope + ["{"]
    		else:
         		if l == "}":
-            			clo = clo  + [")"]
+            			clo = clo  + ["}"]
 		        else:
 				return(ope, clo)
 	if len(ope)==len(clo):

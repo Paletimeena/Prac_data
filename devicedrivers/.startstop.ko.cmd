@@ -1,0 +1,1 @@
+cmd_/home/paletmee/Videos/PRac/Prac_data/devicedrivers/startstop.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/paletmee/Videos/PRac/Prac_data/devicedrivers/startstop.ko /home/paletmee/Videos/PRac/Prac_data/devicedrivers/startstop.o /home/paletmee/Videos/PRac/Prac_data/devicedrivers/startstop.mod.o ;  true
