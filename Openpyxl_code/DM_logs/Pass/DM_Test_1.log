@@ -1,0 +1,18 @@
+Script Start at : Fri Jun 23 16:58:31 2017
+
+
+Going to Test  ['init', '1']
+pass file  <open file 'pass_test.log', mode 'a+' at 0x7f25ced2b6f0>
+fail file  <open file 'fail_test.log', mode 'a+' at 0x7f25ced2b780>
+
+connecting to mysql database
+
+
+sql connected succesfully
+..................initilizing .................
+
+client is intialized with mode type as client
+
+Disconnecting from mysql database****
+
+Script End at : Fri Jun 23 16:58:31 2017

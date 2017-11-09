@@ -1,0 +1,34 @@
+Script Start at : Fri Jun 23 16:58:31 2017
+
+
+Going to Test  ['init', '1', 'discover', '1']
+pass file  <open file 'pass_test.log', mode 'a+' at 0x7fd26a33a6f0>
+fail file  <open file 'fail_test.log', mode 'a+' at 0x7fd26a33a780>
+
+connecting to mysql database
+
+
+sql connected succesfully
+..................initilizing .................
+
+client is intialized with mode type as client
+lengh:  1
+Delete All Tables before Discovering Devices  0
+Truncating DM_Discover table
+
+Truncating DM_GET table
+
+Truncating DM_Observe table
+
+Discovering Resources:
+result: 0 
+Thread created for client observe
+Waiting
+Discover Table:
+****************************************
+ID  1  Resource :  /a/RAHUL_IP  Handle : 0x7fd2380008f0
+****************************************
+
+Disconnecting from mysql database****
+
+Script End at : Fri Jun 23 16:58:41 2017

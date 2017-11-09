@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "run.py", line 216, in <module>
+    call_put(index)
+  File "run.py", line 142, in call_put
+    raise Exception("put failed on resources" + str(lis))	
+Exception: put failed on resources['init', '1', 'discover', '1', 'get', '1', 'put', '1']

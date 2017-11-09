@@ -1,0 +1,129 @@
+Script Start at : Fri Jun 23 16:59:26 2017
+
+
+Going to Test  ['init', '1', 'discover', '1', 'get', '1', 'put', '1']
+pass file  <open file 'pass_test.log', mode 'a+' at 0x7f399f58e6f0>
+fail file  <open file 'fail_test.log', mode 'a+' at 0x7f399f58e780>
+
+connecting to mysql database
+
+
+sql connected succesfully
+..................initilizing .................
+
+client is intialized with mode type as client
+lengh:  1
+Delete All Tables before Discovering Devices  0
+Truncating DM_Discover table
+
+Truncating DM_GET table
+
+Truncating DM_Observe table
+
+Discovering Resources:
+result: 0 
+Thread created for client observe
+Waiting
+Discover Table:
+****************************************
+ID  1  Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0
+****************************************
+
+..................Going to GET Device Information...............
+Truncating DM_GET table
+
+Discover Table:
+****************************************
+ID  1  Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0
+****************************************
+ID  2  Resource :  /oic/sec/acl2  Handle : 0x7f3974009690
+****************************************
+
+Information of Device handle :  0x7f39740008f0
+****************************************
+ID**  1    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  name  value : Rahul
+****************************************
+****************************************
+ID**  2    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  power  value : 2330
+****************************************
+****************************************
+ID**  3    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  state  value : false
+****************************************
+
+Information of Device handle :  0x7f3974009690
+*************************************
+             PUT DATA                
+*************************************
+Discover Table:
+****************************************
+ID  1  Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0
+****************************************
+ID  2  Resource :  /oic/sec/acl2  Handle : 0x7f3974009690
+****************************************
+ID  3  Resource :  /oic/sec/cred  Handle : 0x7f3974012430
+****************************************
+ID  4  Resource :  /oic/sec/crl  Handle : 0x7f397401b1d0
+****************************************
+DM_GET before PUT for Handle :  0x7f39740008f0
+
+Information of Device handle :  0x7f39740008f0
+****************************************
+ID**  1    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  name  value : Rahul
+****************************************
+****************************************
+ID**  2    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  power  value : 2330
+****************************************
+****************************************
+ID**  3    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  state  value : false
+****************************************
+.........................................
+Putting data for handle :  0x7f39740008f0
+3
+change power = 2330 to power = 2380
+ hanle : 0x7f39740008f0 key : power valuetype : i int 2380 string NULL
+DM_GET after PUT for Handle : 0x7f39740008f0
+
+Information of Device handle :  0x7f39740008f0
+****************************************
+ID**  4    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  name  value : Rahul
+****************************************
+****************************************
+ID**  5    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  power  value : 2380
+****************************************
+****************************************
+ID**  6    Resource :  /a/RAHUL_IP  Handle : 0x7f39740008f0  key :  state  value : false
+****************************************
+DM_GET before PUT for Handle :  0x7f3974009690
+
+Information of Device handle :  0x7f3974009690
+.........................................
+Putting data for handle :  0x7f3974009690
+0
+change power = 0 to power = 50
+ hanle : 0x7f3974009690 key : power valuetype : i int 50 string NULL
+DM_GET after PUT for Handle : 0x7f3974009690
+
+Information of Device handle :  0x7f3974009690
+DM_GET before PUT for Handle :  0x7f3974012430
+
+Information of Device handle :  0x7f3974012430
+.........................................
+Putting data for handle :  0x7f3974012430
+0
+change power = 0 to power = 50
+ hanle : 0x7f3974012430 key : power valuetype : i int 50 string NULL
+DM_GET after PUT for Handle : 0x7f3974012430
+
+Information of Device handle :  0x7f3974012430
+DM_GET before PUT for Handle :  0x7f397401b1d0
+
+Information of Device handle :  0x7f397401b1d0
+.........................................
+Putting data for handle :  0x7f397401b1d0
+0
+change power = 0 to power = 50
+ hanle : 0x7f397401b1d0 key : power valuetype : i int 50 string NULL
+DM_GET after PUT for Handle : 0x7f397401b1d0
+
+Information of Device handle :  0x7f397401b1d0
+put failed on  ['0x7f3974009690', '0x7f3974012430', '0x7f397401b1d0']

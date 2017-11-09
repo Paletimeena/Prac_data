@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "run.py", line 222, in <module>
+    call_delete(index)
+  File "run.py", line 194, in call_delete
+    raise Exception('handle ' + handle + ' not Deleted in ' + str(lis))
+Exception: handle 0x7f8a000008f0 not Deleted in ['init', '1', 'discover', '1', 'delete', '1']
