@@ -1,0 +1,5 @@
+table 2
+apple 4
+pencil 89
+bread 20
+

@@ -1,4 +1,6 @@
-if test -f xample.sh
+#!/bin/bash
+
+if test -f example.sh
 then
  echo "file found"
 else 
