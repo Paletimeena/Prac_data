@@ -1,0 +1,28 @@
+
+import json 
+import Credentials
+import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
+driver = webdriver.Firefox()
+
+print "Started"
+
+#(user,pwd) = Credentials.Login_Details()
+
+driver.get("http://www.votarytech.com/")
+time.sleep(10)
+elem = driver.find_element_by_id("menu-item-4372")
+elem.select_by_visible_text("Leadership").click()
+"""
+elem.send_keys(user)
+elem = driver.find_element_by_name("password")
+elem.send_keys(pwd)
+elem.send_keys(Keys.RETURN)
+elem = driver.find_element_by_id("Submit_button").click()
+elem = driver.find_element_by_id("Submit_button").click()
+"""
+print "completed"
+time.sleep(10)
+driver.close()

@@ -1,0 +1,506 @@
+1509519952968	geckodriver	INFO	Listening on 127.0.0.1:60939
+1509519954043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509519954296	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509519954917	Marionette	INFO	Enabled via --marionette
+1509519957711	Marionette	INFO	Listening on port 34863
+1509519957757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509519957789	Marionette	DEBUG	Register listener.js for window 2147483649
+1509519957831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509519958672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509519958672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509519959221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1509519959255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1509520603259	geckodriver	INFO	Listening on 127.0.0.1:34901
+1509520604372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509520604546	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509520605061	Marionette	INFO	Enabled via --marionette
+1509520606771	Marionette	INFO	Listening on port 35021
+1509520606876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509520606911	Marionette	DEBUG	Register listener.js for window 2147483649
+1509520606945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509520607136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509520607136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509520608438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/"
+1509520610784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1509520613077	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1641: TypeError: can't access dead object
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+1509520801884	geckodriver	INFO	Listening on 127.0.0.1:60463
+1509520803006	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509520803206	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509520803763	Marionette	INFO	Enabled via --marionette
+1509520805722	Marionette	INFO	Listening on port 42255
+1509520805825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509520805857	Marionette	DEBUG	Register listener.js for window 2147483649
+1509520805874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509520806100	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509520806100	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509520807429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/"
+1509520810193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1509520813966	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509520842777	geckodriver	INFO	Listening on 127.0.0.1:49131
+1509520843891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509520844058	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509520844619	Marionette	INFO	Enabled via --marionette
+1509520846362	Marionette	INFO	Listening on port 33151
+1509520846410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509520846448	Marionette	DEBUG	Register listener.js for window 2147483649
+1509520846547	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509520846757	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509520846757	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509520847873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/"
+1509520849998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1509520851780	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/"
+1509520852003	Marionette	DEBUG	Received DOM event "beforeunload" for "https://in.yahoo.com/"
+1509520852239	Marionette	DEBUG	Received DOM event "pagehide" for "https://in.yahoo.com/"
+1509520852245	Marionette	DEBUG	Received DOM event "unload" for "https://in.yahoo.com/"
+1509520852369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+1509520852371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1509520852371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1509520852372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1509520852372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1509520852372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1509520852372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1509520852372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1509520852373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1509520852373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1509520852373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509520852374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1509520852374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1509520852374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1509520852374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1509520852374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1509520852375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1509520852375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1509520852375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1509520852375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1509520852379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1509520852379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1509520852380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1509520852380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1509520852380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1509520852380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1509520852380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1509520852381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1509520852382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509520853143	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+1509522341963	geckodriver	INFO	Listening on 127.0.0.1:42069
+1509522343082	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509522343281	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509522343855	Marionette	INFO	Enabled via --marionette
+1509522345681	Marionette	INFO	Listening on port 38265
+1509522345790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509522345838	Marionette	DEBUG	Register listener.js for window 2147483649
+1509522345875	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509522346070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509522346070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509522347329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/"
+1509522350001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1509522351264	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/"
+1509522351454	Marionette	DEBUG	Received DOM event "beforeunload" for "https://in.yahoo.com/"
+1509522351687	Marionette	DEBUG	Received DOM event "pagehide" for "https://in.yahoo.com/"
+1509522351688	Marionette	DEBUG	Received DOM event "unload" for "https://in.yahoo.com/"
+1509522351773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+1509522351774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1509522351774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1509522351775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1509522351776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1509522351776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1509522351776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509522351776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1509522351777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1509522351778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1509522351778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1509522351778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1509522351778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1509522351778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1509522351779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509522351780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509522352420	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509617326672	geckodriver	INFO	Listening on 127.0.0.1:34485
+1509617327760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617328012	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617328595	Marionette	INFO	Enabled via --marionette
+1509617330969	Marionette	INFO	Listening on port 45043
+1509617331264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617331297	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509617526316	geckodriver	INFO	Listening on 127.0.0.1:51503
+1509617527429	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617527589	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617528139	Marionette	INFO	Enabled via --marionette
+1509617529887	Marionette	INFO	Listening on port 41689
+1509617529953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617529989	Marionette	DEBUG	Register listener.js for window 2147483649
+1509617554778	geckodriver	INFO	Listening on 127.0.0.1:40875
+1509617555856	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617556020	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617556580	Marionette	INFO	Enabled via --marionette
+1509617558393	Marionette	INFO	Listening on port 42859
+1509617558469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617558502	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509617616734	geckodriver	INFO	Listening on 127.0.0.1:49907
+1509617617854	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617618031	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617618590	Marionette	INFO	Enabled via --marionette
+1509617620457	Marionette	INFO	Listening on port 35789
+1509617620471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617620506	Marionette	DEBUG	Register listener.js for window 2147483649
+1509617673448	geckodriver	INFO	Listening on 127.0.0.1:35291
+1509617674563	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617674721	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617675252	Marionette	INFO	Enabled via --marionette
+1509617676916	Marionette	INFO	Listening on port 39469
+1509617677058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617677090	Marionette	DEBUG	Register listener.js for window 2147483649
+1509617678349	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509617701490	geckodriver	INFO	Listening on 127.0.0.1:38781
+1509617702609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617702799	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617703305	Marionette	INFO	Enabled via --marionette
+1509617705264	Marionette	INFO	Listening on port 38773
+1509617705323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617705356	Marionette	DEBUG	Register listener.js for window 2147483649
+1509617729701	geckodriver	INFO	Listening on 127.0.0.1:39381
+1509617730817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617730995	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617731522	Marionette	INFO	Enabled via --marionette
+1509617733326	Marionette	INFO	Listening on port 36545
+1509617733493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617733528	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509617986397	geckodriver	INFO	Listening on 127.0.0.1:38935
+1509617987514	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509617987693	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509617988239	Marionette	INFO	Enabled via --marionette
+1509617991772	Marionette	INFO	Listening on port 37425
+1509617991831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509617991862	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509618174929	geckodriver	INFO	Listening on 127.0.0.1:33719
+1509618176044	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509618176201	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509618176714	Marionette	INFO	Enabled via --marionette
+1509618178461	Marionette	INFO	Listening on port 41827
+1509618178574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509618178611	Marionette	DEBUG	Register listener.js for window 2147483649
+1509618293942	geckodriver	INFO	Listening on 127.0.0.1:35251
+1509618295060	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509618295233	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509618295742	Marionette	INFO	Enabled via --marionette
+1509618297676	Marionette	INFO	Listening on port 44089
+1509618297771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509618297803	Marionette	DEBUG	Register listener.js for window 2147483649
+1509618377977	geckodriver	INFO	Listening on 127.0.0.1:55229
+1509618379083	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509618379291	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509618379814	Marionette	INFO	Enabled via --marionette
+1509618381579	Marionette	INFO	Listening on port 43555
+1509618381607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509618381654	Marionette	DEBUG	Register listener.js for window 2147483649
+1509618518316	geckodriver	INFO	Listening on 127.0.0.1:49475
+1509618519435	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509618519601	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509618520186	Marionette	INFO	Enabled via --marionette
+1509618522017	Marionette	INFO	Listening on port 36397
+1509618522129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509618522162	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509618607030	geckodriver	INFO	Listening on 127.0.0.1:54701
+1509618608144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509618608304	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509618608835	Marionette	INFO	Enabled via --marionette
+1509618610609	Marionette	INFO	Listening on port 36149
+1509618610708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509618610740	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1509619511925	geckodriver	INFO	Listening on 127.0.0.1:41715
+1509619513040	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509619513215	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509619513771	Marionette	INFO	Enabled via --marionette
+1509619515613	Marionette	INFO	Listening on port 45147
+1509619515730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509619515767	Marionette	DEBUG	Register listener.js for window 2147483649
+1509619515804	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509619515843	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509619515845	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509619515845	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509619515870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//investigator-workbench-uk.amazon.com/gp/stores/www.amazon.co.uk/gp/home/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20investigator-workbench-uk.amazon.com."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510233175314	geckodriver	INFO	Listening on 127.0.0.1:54093
+1510233176450	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510233176699	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510233177456	Marionette	INFO	Enabled via --marionette
+1510233179636	Marionette	INFO	Listening on port 42339
+1510233179698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510233179760	Marionette	DEBUG	Register listener.js for window 2147483649
+1510233179960	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510233181082	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510233181082	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510233181099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510233187644	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
+1510233223022	geckodriver	INFO	Listening on 127.0.0.1:41657
+1510233224113	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510233224285	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510233224800	Marionette	INFO	Enabled via --marionette
+1510233226487	Marionette	INFO	Listening on port 36835
+1510233226538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510233226574	Marionette	DEBUG	Register listener.js for window 2147483649
+1510233226667	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510233227223	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510233227223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510233227230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510233233765	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
+1510233312745	geckodriver	INFO	Listening on 127.0.0.1:36769
+1510233313817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510233313986	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510233314496	Marionette	INFO	Enabled via --marionette
+1510233316230	Marionette	INFO	Listening on port 35463
+1510233316373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510233316413	Marionette	DEBUG	Register listener.js for window 2147483649
+1510233316458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510233317962	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510233317962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510233317971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510233324630	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510233694944	geckodriver	INFO	Listening on 127.0.0.1:37959
+1510233696065	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510233696246	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510233696761	Marionette	INFO	Enabled via --marionette
+1510233698460	Marionette	INFO	Listening on port 46503
+1510233698550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510233698598	Marionette	DEBUG	Register listener.js for window 2147483649
+1510233698652	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510233699170	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510233699170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510233699183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510233705396	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510233796533	geckodriver	INFO	Listening on 127.0.0.1:58279
+1510233797655	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510233797813	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510233798358	Marionette	INFO	Enabled via --marionette
+1510233800135	Marionette	INFO	Listening on port 45723
+1510233800176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510233800215	Marionette	DEBUG	Register listener.js for window 2147483649
+1510233800246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510233800809	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510233800809	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510233800820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510233813761	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
+1510234178235	geckodriver	INFO	Listening on 127.0.0.1:46795
+1510234179351	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1510234179507	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510234180097	Marionette	INFO	Enabled via --marionette
+1510234181942	Marionette	INFO	Listening on port 41913
+1510234182059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510234182107	Marionette	DEBUG	Register listener.js for window 2147483649
+1510234182151	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510234182705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510234182706	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510234182720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.votarytech.com/"
+1510234189052	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.votarytech.com/"
