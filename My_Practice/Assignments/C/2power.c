@@ -6,7 +6,8 @@ int main()
 	scanf("%d",&a);
 	for(i=0;i<=31;i++)
 	{
-		b=1<<i;	
+		b=1<<i;
+		printf("b value is %d\n",b);	
 		if(a == (a&b))
 		{
 			flag =1;
