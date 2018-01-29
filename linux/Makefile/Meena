@@ -1,0 +1,7 @@
+main:a.out
+	@echo My name is \ meena \ paleti
+a.out:a.c
+	echo "running makefile"
+	gcc -o a.out a.c
+clean:
+	rm a.out

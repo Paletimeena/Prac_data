@@ -1,0 +1,11 @@
+multi threading...
+class thread 
+unit thread
+locks:exclusive lock ,semaohore:manger of lock condition.
+timer is also available in threading.
+event:communication b/w two threads
+ipgconfig//to get ip address
+ping//to get active n/w on s/m
+
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																

@@ -1,6 +1,6 @@
 #!/bin/bash
-
-for num in {2..20..2}
+l={1,2,3,4,5}
+for num in 1 2 3 4 5 6  
 do
 	echo "table for 2 : $num"
 done

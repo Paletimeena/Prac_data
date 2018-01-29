@@ -1,0 +1,35 @@
+beautifulsoup4
+scapy.
+www.regexter.com
+[0-9]--1
+[0-9]--2
+[0-9]+--->finds all integer
+[a-zA-Z]--to match a to z
+\D+-->matches all except numbers
+\s->apart whitespace
+
+\split
+\match
+\search
+\findall
+\
+..............
+.py file is called module.
+relative import//when u set path
+x=10,y=5
+print 'x value is'+str(x)
+print 'x value is %s',x
+print 'x value is %s and y value is %s',(x,y)
+..os module//to work with all os function
+csv,json,logging,xml
+sys module
+stdin
+.........
+import logging
+help(logging.getLogger)
+import sys
+for arg in sys.arg:
+	print arg
+stdout
+stderr
+

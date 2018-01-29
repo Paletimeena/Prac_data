@@ -1,0 +1,43 @@
+Data base SQL...
+To store the data and its a collection of data.
+#huge collection of bus routes in that collection of bus routes is called data and 
+particular one route data is called the Information.
+#Two database :1.sequial-oracle
+	       2.nosequial.
+SQL:sturctured quairy language
+
+sequile...
+1.student entitity
+name
+department
+class
+sec
+roll-no
+marks
+age
+gender
+address
+2.teacher entitity
+name
+
+department
+age
+subjects handles
+classes handles
+gender
+adress
+#....constraints
+pk:person key
+fk:foreign key
+#...Mysql
+Aggrete funcion
+desc for descrption of the table
+Filtering
+Joins
+Unit
+Nested Queries
+Count,Min,Max,AVG,Where,LIKE,LEFT,RIGHT,INNER,OUTER
+#insert the row
+INSERT INTO students<name,rollno,email> value<'amar','fgf558','fad@'>
+select * From students where name="amar":
+

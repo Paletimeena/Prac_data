@@ -1,0 +1,13 @@
+#include<stdio.h>
+struct empolyee
+{
+	char name[10];
+	int id:
+	char grade[4];
+};
+
+int main()
+{
+	struct empolyee e1 = {"meena",847,"T10"};
+	printf("name: %s\n",e1.name);		
+}

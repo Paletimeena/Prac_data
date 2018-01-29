@@ -1,0 +1,49 @@
+#website Hasjob-for job application
+#freecodecamp-course
+#meetup and Django girls
+#Numbers........................
+python provides :int 
+				 float
+				 long=infinte long
+				 complex
+
+long=100L//represented by L
+float math.pi=3.1415962
+float math.e=2.7182
+complex(1,2)=(1+2j)
+
+#type casting..........................
+	x=10,abc
+	float(x)
+	long(x)
+	int(x)
+	int(float(x)=10
+	
+#ceiling and flooring......................
+	x=3.56
+	ceil(x)
+	floor(x)
+
+#methods in python
+	1.cmp(10,2)
+		returns 1
+	cmp(2,10)
+	    returns -1
+	cmp(10,10)
+		returns 0
+		
+	2.abs(-1) //gives how far from zero
+	3.math.log10(10)
+		math.log(10)
+	4.max(2,5,6)
+	5.min(4,5,65)
+	6.math.sqrt(4)
+	7.round(3.4)
+	# impot random
+	8.range(1,10)//gives from 1 to 10;
+	9.random.choice(x)
+	10.random.range(1,10)//from 1 to 10
+	11.random.range(1,100,5)//5 indicates difference b/w each number
+	12.random.random()//gives from zero t0 1
+# num.isdigit():
+# num.isalnum():

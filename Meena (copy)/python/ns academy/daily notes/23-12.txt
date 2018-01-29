@@ -1,0 +1,33 @@
+help(xml.etree.ElementTree)
+>>code
+>>import xml.ElementTree
+>>elementtree is a complete xml 
+>>element is single statement
+########this program is used to access the data from xml file.
+>>> from etree import ElementTree as ET
+import os
+filepath=os.getcewd()+'/test.xml'
+fp=open(filepath,'rb')
+tree=ET.parse(fp)
+root=tree.getroot
+students=root.findall('students')
+for student in sudents:
+	print student.find('name').get('text')
+
+
+
+
+##to create own xml dynamically
+from xml.etree import ElementTree as ET
+students=ET.Element('students')
+#ET.dump(students)//printing out the output for xml
+students=ET.Element('students')
+student=ET.subelement(students,'student')
+studentname=ET.subElement(student,'name')
+studentemail=ET.subElement(student,'email')
+studentid=ET.subElement(student,'id')
+ET.dump(students)
+studentmail.text='text@gmail.com'
+studentname.text='meena'
+studentid.text='6565262'
+student

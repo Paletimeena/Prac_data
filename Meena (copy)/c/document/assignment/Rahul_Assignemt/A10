@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+	int v1,v2,v3,max;
+	printf("Please enter the number\n");	
+	scanf("%d%d%d",&v1,&v2,&v3);
+	max=(v1>v2?(v1>v3?v1:v3):(v2>v3?v2:v3));
+	printf("Maximum value is :%d\n",max);
+	printf("Thanks\n");
+}

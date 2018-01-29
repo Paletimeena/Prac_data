@@ -1,0 +1,29 @@
+import calender
+help(calender.calender)
+calender(2017,1)
+ print calender.monthcalender(2017,1)
+
+import time
+time.time()
+time.localtime(time.time())
+now=time.localtime(time.time())
+time=mktime(now)
+time.asctime(now)
+print calendar.month(2017,1)
+time.sleep(10)09:55 AM 02-01-2017
+time.strptime('2017-01-01,'%y-%m-%d')//string to structure
+time.strftime('%y-%m-%d',now)//tuple to string
+
+import datetime
+from datetime import datatime
+datetime.now()
+datetime.today()
+datetime.utcnow()
+now=datetime.now()
+now.year
+now.month
+now.day
+now.minute
+now.second
+datetime.ctime(now)
+datetime.fromtimestamp(time.time())

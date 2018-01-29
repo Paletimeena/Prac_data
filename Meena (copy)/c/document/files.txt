@@ -1,0 +1,256 @@
+files:
+
+permanent storage
+
+secondary memory
+
+library functions:
+fopen,fclose,
+fread,fwrite,fgets
+fputc.......
+
+int main(void)
+{
+	FILE *fptr;
+	int ch;
+	if((fptr=fopen("myfile","w"))==NULL)
+	{
+		printf("File does not exist\n");
+		exit(1);
+	}
+	printf("Enter text :\n");
+	
+	while((ch=getchar())!='\n')  
+		fputc(ch,fptr);
+	fclose(fptr);
+	return 0;
+}
+
+
+
+#include<stdio.h>
+#include<stdlib.h>
+int main(void)
+{
+	FILE *p;
+	char ch;
+	if((p=fopen("myfile","r"))==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	while((ch=fgetc(p))!=EOF)
+			printf("%c",ch);
+	fclose(p);
+	return 0;
+}
+
+
+int main(void)
+{
+	FILE *fptr;
+	char str[80];
+	if( (fptr=fopen("test","r"))==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	fgets(str,80,fptr);
+		puts(str);
+	fclose(fptr);
+	return 0;
+}
+
+-------------------------------------------------------------------------
+#include<stdio.h>
+#include<stdlib.h>
+struct student
+{	
+	char name[20];
+	float marks;
+}stu;
+int main(void)
+{
+	FILE *fp;
+	int i,n;
+	if((fp=fopen("students","w"))==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("Enter number of records : ");
+	scanf("%d",&n);
+	for(i=1; i<=n; i++)
+	{
+		printf("Enter name and marks : ");
+		scanf("%s%f",stu.name,&stu.marks);
+		fprintf(fp,"%s %f",stu.name,stu.marks);
+	}
+	return 0;
+}
+
+struct student
+{
+	char name[20];
+	float marks;
+}stu;
+int main(void)
+{
+	FILE *fp;
+	if((fp=fopen("students","r"))==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("NAME\tMARKS\n");
+	while(fscanf(fp,"%s %f",stu.name,&stu.marks)!=EOF )
+		printf("%s\t%f\n",stu.name,stu.marks);
+
+	fclose(fp);
+	return 0;
+}
+
+struct record
+{
+	char name[20];
+	int roll;
+	int marks;
+}student;
+int main(void)
+{
+	int i,n;
+	FILE *fp;
+	if((fp=fopen("stu","wb"))==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("Enter number of records : ");
+	scanf("%d",&n);
+	
+	for(i=0; i<n; i++)
+	{
+		printf("Enter name : ");
+		scanf("%s",student.name);
+		printf("Enter roll no : ");
+		scanf("%d",&student.roll);
+		printf("Enter marks : ");
+		scanf("%d",&student.marks);
+		fwrite(&student,sizeof(student),1,fp);
+	}
+	fclose(fp);
+	return 0;
+}
+
+int main(void)
+{
+	FILE *fp;
+	fp = fopen("stu","rb");
+	if(fp==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("\nNAME\tROLLNO\tMARKS\n");
+	while(fread(&student,sizeof(student),1,fp)==1)
+	{
+		printf("%s\t",student.name);
+		printf("%d\t",student.roll);
+		printf("%d\n",student.marks);
+	}
+	fclose(fp);
+	return 0;
+}
+int main(void)
+{
+	FILE *fp;
+	fp = fopen("stu","r");
+	if(fp==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("Position indicator -> %ld\n",ftell(fp));
+	fseek(fp, -10, SEEK_END);	
+	printf("Position indicator -> %ld\n",ftell(fp));
+	rewind(fp);
+	printf("Position indicator -> %ld\n",ftell(fp));
+	fclose(fp);
+	return 0;
+}
+
+struct record
+{
+	char name[20];
+	int roll;
+	int marks;
+}student;
+int main(void)
+{
+	int n;
+	FILE *fp;
+	fp=fopen("stu","rb");
+	if(fp==NULL)
+	{
+		printf("Error in opening file\n");
+		exit(1);
+	}
+	printf("Enter the record number to be read : ");
+	scanf("%d",&n);
+	fseek(fp,(n-1)*sizeof(student),0);   /*skip n-1 records*/
+	fread(&student,sizeof(student),1,fp);  /*Read the nth record*/
+	printf("%s\t",student.name);
+	printf("%d\t",student.roll);
+	printf("%d\n",student.marks);
+	fclose(fp);
+	return 0;
+}
+
+======================================================================================
+program to file copy
+
+
+#include<stdio.h>
+#include<stdlib.h>
+void file_copy(FILE*,FILE*);
+int main(int argc,char*argv[])
+{
+        FILE *fp;
+        if(argc==1)
+        {
+                file_copy(stdin,stdout);
+
+        }
+        else
+        {
+                while(--argc>0)
+                {
+                        if((fp=fopen(*++argv,"r"))==NULL)
+                        {
+                                printf("cant open %s",*argv);
+                                exit(0);
+                        }
+                        else
+                        {
+                                file_copy(fp,stdout);
+                                fclose(fp);
+                        }
+                }
+        }
+return 0;
+}
+
+void file_copy(FILE *ifp,FILE *ofp)
+{
+        int  c;
+        while((c=getc(ifp))!=EOF)
+        {
+                putc(c,ofp);
+        }
+}
+
+
+
+
+
+

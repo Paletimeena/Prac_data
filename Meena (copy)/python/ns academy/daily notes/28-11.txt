@@ -1,0 +1,64 @@
+28-11-2016...............................
+
+#to define function
+def sum(x,y):
+	return x+y
+	
+#to find the variable
+	instance(x,int)
+	
+#to import math module
+	from math import factorial
+	factorial(5)
+	
+#to use math math module
+	import math
+	dir(math)
+	math.factorial(5)
+
+#to know the type of variable
+	name="meenaname"
+	type(name)
+	or...
+	isinstance(name,str)
+	
+#creat read update delete
+#to find length
+len(variable)
+
+#index of string
+	firstname='pyhton'
+	firstname[5]
+	
+#silicing operator
+firstname[startindex:endindex]//startindex tells  where to start and endindex tells how many to print
+firstname[0:3]//0
+firstname[:]//prints whole string
+firstname[3:]//hon
+firstname[:3]//pyt
+firstname[:-1]//pytho last one char is skipped
+
+#string opertions
+	str1='meena'
+	str1.capitalize()
+	str1.upper()
+	str1.lower()
+	str1.isupper()
+	str1.islower()
+	'123'.isdigit()
+	' '.isspace()
+	'paleti@meena'.split('@')//to seperate
+	'paleti@meena'.strip('@')//to skip
+	'paleti@meena'.count('e')//to find e 
+	'paleti@meena'.index('e')//to find position
+	'paleti@meena'.find('meena')//finds lowest index if it is found ||if not gives -1;
+	','.join('meena')//adds the ',' after each letter in 'python'
+	'phtyon'.replace('p','j')
+	
+	#to delet the string
+	del name//we can delete entire string but not particluar char in string
+	
+	#we cant assign x[0]='j'
+	
+	9844626450 -sir number
+	

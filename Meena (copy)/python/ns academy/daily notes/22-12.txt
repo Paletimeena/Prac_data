@@ -1,0 +1,89 @@
+outliers and zero to one
+#csv:comma separated values
+#JSON:Javascripit object notation
+#XML:Extensible markup language
+>>>>>>>>>>
+csv program
+name,email,phone
+meena,meena@gmail.com,672457
+nfjs,jfnj@gmail.com,564565457
+
+to pass csv file//doc:pyhton csv reader
+
+import csv,os
+filepath=os.getcwd()+'/test.csv'
+#fp=open(filepath,'r')
+with open(filepath,'r')as fp#rb
+rows=csv.reader(fp,delimeter='|')
+for row in rows:
+	print row
+
+.......to write csv file...........
+import csv,os
+filepath=os.getcwd()+'/newfile2.csv'
+with open(filepath,'wb')as fw:
+	csvwriter=csv.writer(fw,delimiter=',')
+	csvwriter.writerow(['col1','col2'])
+	csvw
+
+#.....to access the image....form web?//doc:pyhton urllib2
+url=''
+filepath=os.getcwd+'/logo.png'
+fp=urllib2.urlopen(url)
+fw=open(filepath,'wb')
+fw.write(fb.read())
+fp.close()
+fw.close()
+
+#json 
+facebook api expoller--api:endpoint
+api.apixu'....to get weather data
+import urllib2,json
+url='http://jhgijhgiogj'
+fp=rllib2.urlopen(url)
+jsondata=fp.read()
+print jsondata
+data=json.loads(jsondata)
+print type(data)
+print data['current']['temp-c']
+
+#to convert dicitonari to the json.....
+test={}
+test['name']='test'
+test['mail']='ekfm@gmail.com'
+test()
+json.dumps(test)
+
+...#xml#.......//doc:code beautify.org
+file name test.xml
+<?xml >
+<students>
+<student>
+<name>meena</name>
+<email>nfri@gmail.com</email>
+</student>
+
+<student>
+<name>amtur</name>
+<email>nfri@gmail.com</email>
+</student>
+
+<student>
+<name>jyoti</name>
+<email>nfri@gmail.com</email>
+</student>
+</students>
+
+from etree import ElementTree as ET
+impport os
+filepat=os.getcwd()+'/test.xml'
+fp=open(filepath,'rb')
+tree=ET.parse(fp)
+print tree
+root=tree.getroot()//to get root element
+print root
+for el in root:
+	for subel in el:
+	print subel.tag
+	print subel.text
+

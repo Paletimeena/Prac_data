@@ -1,0 +1,124 @@
+wsgi
+dom
+
+user@Admin MINGW64 ~/Desktop (master)
+$ cd
+
+
+
+user@Admin MINGW64 ~
+$
+D
+user@Admin MINGW64 ~
+$
+
+user@Admin MINGW64 ~
+$ D:
+bash: D:: command not found
+
+user@Admin MINGW64 ~
+$ d
+bash: d: command not found
+D
+user@Admin MINGW64 ~
+$ D
+bash: D: command not found
+
+user@Admin MINGW64 ~
+$ pyhton
+bash: pyhton: command not found
+
+user@Admin MINGW64 ~
+$ cd D:/
+
+user@Admin MINGW64 /d
+$ pwd
+/d
+
+user@Admin MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/         documents/              project/
+'acclimate documents'/  html/                   python/
+BANK/                   java/                   SHAREIT/
+bluestack/              'java sample'/          softwares/
+bootstrap/              msp430/                 'System Volume Information'/
+'c programms'/          personaz/               web/
+'c++ programs'/         'Program Files (x86)'/
+
+user@Admin MINGW64 /d
+$ cd python/
+
+user@Admin MINGW64 /d/python
+$ ls
+documents/  programs/  software/  videos/
+
+user@Admin MINGW64 /d/python
+$ cd programs/
+
+user@Admin MINGW64 /d/python/programs
+$ ls
+1-12/   2-1/    22-12/  26-12/      28-12/  30-12/  5-1/   'vedio ex'/
+12-12/  21-12/  23-12/  27-12/      29-11/  3-1/    7-11/  vp/
+14-12/  2-12/   24-12/  '28 & 29'/  30-11/  4-1/    test/
+
+user@Admin MINGW64 /d/python/programs
+$ cd 1.
+bash: cd: 1.: No such file or directory
+-
+user@Admin MINGW64 /d/python/programs
+$ cd 1-12
+
+user@Admin MINGW64 /d/python/programs/1-12
+$ ls
+dic1.py  reverse.py
+
+user@Admin MINGW64 /d/python/programs/1-12
+$ git init
+Initialized empty Git repository in D:/python/programs/1-12/.git/
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git add dic1.py reverse.py
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   dic1.py
+        new file:   reverse.py
+
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git push master origin
+error: src refspec origin does not match any.
+error: failed to push some refs to 'master'
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git push origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'origin'
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ ^C
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git commit -m "this is first commit"
+[master (root-commit) 6f7c2bf] this is first commit
+ 2 files changed, 23 insertions(+)
+ create mode 100644 dic1.py
+ create mode 100644 reverse.py
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+user@Admin MINGW64 /d/python/programs/1-12 (master)
+$ git remote add origin

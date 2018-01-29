@@ -1,0 +1,33 @@
+print 'hi'+10//throws error
+#Inbuilt Exceptions
+#Value Error//x,y=1,2,3
+#ZeroDivisionError;1/0
+#IOError
+#ArithimeticError
+
+#Custom Exception
+try:
+	print 'hi'+10
+except TypeError,e:
+	#handle the error
+	print 'error occured'
+	print 'lets try some thing else'
+except ZeroDivisionError,e:
+	print 'zero division error'
+except Exception,e:
+	print 'generic error block called'
+	print e
+
+finally:
+	#this code will run no matter exception occured or not
+	print 'finally called'
+else:
+	#this will be called only when exception are not occured
+	print 'else called'
+	
+
+	print 'helllo world'
+	fp=open('somefile.txt','r')//throws error because we are trying to open un existed file
+	fp.write("some text")
+	fp.close()
+raise ZeroDivisionError('zero division')//it raises own error

@@ -1,0 +1,51 @@
+import scoket
+s=socket.socket()
+host=socket.gethostname()
+port=1236
+s.bind((host,port))
+s.listen(5)
+while True:
+	c,addr=s.accept()
+	print 'got connection from',addr
+	c.send('thnak you for connecting.its great')
+	c.close()
+
+
+
+
+##########
+cilent example
+
+import socket
+s=socket.socket()
+host=socket.gethostname()
+port=1236
+s.connect((host,port))
+print s.recv(1024)
+#####libraries
+#http-->httplib,urllib
+#safaribooksonline.com
+get
+del
+port
+post
+
+status
+100-information
+200-succesful
+300--re directed
+400--not found
+500--server error
+##urll--https://www.safaribooks.com/grtg/grg/rtgtw/qerr
+#ftp-->
+request headers
+authority--www.safaribooks.com
+path--grtg/grg/rtgtw/qerr
+content lenght--57554
+################
+to handel get and post pyhton has speciall library
+request library
+
+###
+import urllib2
+urllib2.urlopen('http://imdb.com')

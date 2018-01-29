@@ -1,2 +1,8 @@
-all:
-	@echo My name is \ meena \ paleti
+
+all: mkf
+	@echo "make file"
+mkf:
+	make -f Meena
+cleanout:
+	make -f Meena clean
+	

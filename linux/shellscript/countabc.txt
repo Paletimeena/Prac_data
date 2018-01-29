@@ -1,0 +1,7 @@
+#!/bin/bash
+abc
+abc
+abcag
+abc
+abjodfhudi
+abc

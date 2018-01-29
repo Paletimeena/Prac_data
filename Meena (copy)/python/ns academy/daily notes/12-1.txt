@@ -1,0 +1,38 @@
+D-jango ...jango oh;
+design patterns
+MVT (Design patteren-MVC) .
+django modules
+>CRUD interface
+>Authentication
+>comments system
+> Forms handling
+>sessions
+>sessions
+>caching
+>syndicating framework(RSS and Atom Feeds)
+>internationalization
+>localization
+>custom middleware
+
+startproject pollsproject
+ol:order list
+ul:un order list
+<ol type='A' colour='aqua' >
+ <u><strong><li>option 1</li>
+ <li>option 1</li>
+ <li>option 1</li>
+ <li>option 1</li>
+</ol>
+
+<i>this makes italic</i>
+
+
+<del>:to sracth
+....html5 tags....
+section
+artical
+summary
+discription
+medial files
+canvers
+ogg.. mp4

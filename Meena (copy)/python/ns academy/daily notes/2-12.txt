@@ -1,0 +1,134 @@
+#Tuples
+s=()
+type(s)
+>>tuple
+isinstance(s,tuple)
+>>true
+x=tuple()
+print x
+>>()
+x=tuple('python')
+>>'p',y,t,h,o,n
+x[0]
+>>'p'
+print x[0:3]
+>>'p',y,t
+for y in x:
+	print y
+>>x[0]='j'//not possible
+tuples are immutable
+del x//delets the x tuple
+while i<leng(x):
+		print x[i]
+		i+=1
+		
+x.index(t)
+>>2
+
+x.count('p')
+>>1
+
+'p' in x//in is an membership operator
+>>TRUE
+
+x=()
+print type(x)
+>>tuple
+
+x=('a')
+print type(x)
+>>str
+
+x=(1)
+print type(x)
+>>int
+
+x=('a',)
+print type(x)
+>>tuples
+
+x=(1,2,)
+print type(x)
+>>tuples
+
+#######################
+to swap two numbers
+x=10
+y=20
+temp=x
+x=y
+y=temp
+
+...
+x,y=y,x//two numbers are swaped
+
+divmod(10,3)
+>>(3,1)
+divmod(10,3)=qoutient,remainder
+>>q=3
+>>r=1
+
+...
+for key,val in str():
+		print key,val
+....
+[1]+[2]
+>>[1,2]
+for x in enumerate("abc")//enumerate gives one by one 
+		print x
+	>>0 a
+	>>1 b
+	>>2 c
+	
+Zip:is data type which combines together 
+t=[1,2,3]
+s='abc'
+zip(t,s)
+>>1,a,2,b,3,c
+zip(s,t)
+>>a,1,b,2,c,3
+...
+t=[10,3]
+div(*t)
+>>(3,1)
+
+.....
+sum=lambda x,y:x+y
+sum(10,20)
+>>30
+
+y=[1,2,3,4]
+for x in y:
+	print square(x)
+>>1,4,9,16
+
+map(square,y)//map is used to each element to the function
+>>1,4,9,16
+reduce(sum,y)
+>>15
+...
+oddoreven(10)
+>>True
+
+for x in range(1,11):
+			if x%2==0:
+				print oddoreven(x)
+				
+.......
+even=lambda x:x%2==0
+	filter(even,range(1,11))
+	>>2,4,6,8,10
+
+...
+odd=lambda x:x%2!==0
+	filter (odd,range(1,11))
+	>>1,3,5,7,9
+	
+.................
+set function//ordering of unique collection of elements
+no dupilicates values in set 
+in list there is dupilicate .
+
+x=set('python')
+x=add('a')
+x=a,h,o,p,t,y.

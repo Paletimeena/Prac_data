@@ -1,0 +1,2 @@
+import 1stmain
+print __name__

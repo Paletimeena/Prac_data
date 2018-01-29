@@ -1,0 +1,32 @@
+#!/usr/bin/python
+from random import randrange
+def random_list():
+	result=[]
+	count = randrange(3,20)
+	for index in range(count):
+		result+=[randrange(-50,50)]
+	return result
+
+def selection_sort(list):
+	n=len(list)
+	for index in range(n-1):
+		small =index
+	for index1 in range(index +1,n):
+		if list[index1] < list[small]:
+			small= index1
+	if index != small:
+		list[index],list[small]=list[small],list[index]
+	return 
+
+def main():
+	"""
+	Test the selction sort
+	"""
+	for index in range(10):
+		col = random_list()
+		print(col)
+		selection_sort(col)
+		print(col)
+	print('====================================')
+main()
+

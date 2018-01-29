@@ -1,0 +1,48 @@
+import tkinter
+dir tkinter
+....wwxpython
+..qutie language
+pyhton gui2/calculator.py
+mkdir gui
+cd gui....
+from Tkinter import *
+root=Tk()
+...three layouts grid layout(similar to bootstrap) and pack layout(frames)
+root.mainloop()
+
+
+from Tkinter import *
+def printme():
+    print "hello welcome to the gui"
+root=Tk()
+root.title('gui window')
+label=Label(root,text='hi first label on tk')
+label.pack()
+btn1=Button(root,text='click me',command=printme)
+btn1.pack(side=LEFT)
+btn2=Button(root,text='close',command=root.quit)
+btn2.pack()
+root.mainloop()
+
+from Tkinter import *
+def printme():
+    print entry.get()
+    print "hello welcome to the gui"
+    labeltext.set('simple form changed')
+    
+root=Tk()
+root.title('Grid layout')
+labeltext=StringVar()
+labeltext.set("simple form")
+label=Label(root,textvariable=labeltext)
+label.grid(columnspan=2)
+
+entry=Entry(root)
+entry.grid(columnspan=2)
+
+btn1=Button(root,text='click me',command=printme)
+btn1.grid(row=2,column=0)
+btn2=Button(root,text='close',command=root.quit)
+btn2.grid(row=2,column=1)
+
+root.mainloop()

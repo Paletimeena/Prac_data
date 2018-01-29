@@ -1,0 +1,31 @@
+Bootstrap......
+getboostrap.com
+SMTP:simple mail transfer Protocal(TCP/IP)
+SMTP:supports oly text msg but video,graphic and images are used with other support.
+major components: 
+eg:Eudora,outlook,pine,Netscape Messenger.
+Mail servers:
+Mail Transfer Agent: transfer the mail accros the internet.
+User Agent:1.Create the mail
+	   2.compose the mail
+	   3.enevolpe the mail.
+Relay MTP:used to transfer mail b/w hetroneous n/w.
+MTP: act as a gate way.
+addresses:
+localpart @ Domain Name
+localpart: address of the mailbox on localsite
+Domain name:Host name.
+
+Delayed Delivery:messages no need to be delivered immediately.
+Aliases:sending mail to a group which includes more than on local part.
+
+Mail transfer phases:
+Connection:well-known port-25
+	hello msg from cilent
+	k from server.
+Transfer
+Terminate connection.
+
+HHTP:Pull
+SMTP:Push
+

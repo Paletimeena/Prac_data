@@ -1,0 +1,52 @@
+#dictionaries 
+ 1.List -is mutable data type//lists are hetrogenous it may be numbers or chars
+ x=[]
+ type(x)
+ o/p=list
+ >>instance(x,list)
+ >>true
+ >>x=list()
+ x=list("python")
+ >>p,y,t,h,o,n
+ #############....................
+	numbers=[10,20,30,40]
+	count=0
+	while count<len(numbers):
+		print numbers[count]
+		count+=1
+..............................
+number[3]=50;//to update the value
+delete number//to delete the number 
+.......................
+append//is to add the value num.append(20)//num=[10,20,30,40,20]
+count//to count how many numbers//num.count(20)//2
+newnub=[60,70]
+extend//to extend//num.extend(newnum)//nub=[10,20,30,40,20,60,70]
+insert(0,5)//num.insert(0,5)//num=[5,20,30,40,20,60,70]
+numbers.remove(20)//numbers=[5,30,40,20,60,70]
+numbers.reverse()//numbers=[70,60,20,40,30,5]
+numbers.sort()//numbers=[5,20,30,40,60,70]
+number.sort(reverse=true)
+........................
+num1=[10,20]
+num2=[30,40]
+num1+num2//[10,20,30,40]
+num1*2//[10,20,10,20]
+
+......................
+import math
+def sum(x,y):#default arguments
+    print x,y
+    return x+y
+
+print sum(10,5)#required arguments
+sum(y=20,x=30)#key word arguments
+
+def sum(*args):#variable length arguments
+    total=0
+    if len(args)>0:
+        for arg in args:
+            total+=arg
+
+print total
+	

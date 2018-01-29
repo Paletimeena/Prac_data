@@ -7,8 +7,8 @@ echo arugments count $#
 echo pid $$
 echo list of parameters $*
 echo @ $@
-IFS=,
-set foo bar bam
+IFS=*
+set fdoo bar bam
 echo "$@"
 echo "$*"
 unset IFS

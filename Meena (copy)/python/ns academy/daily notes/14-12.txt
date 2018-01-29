@@ -1,0 +1,35 @@
+class vehicle:
+	def __init__(self,make,)
+
+inhertance...........child calss can access attributes from parent calss
+composition: one class has another class
+
+#example for inhertiance
+class Animals:
+	def __init__(self,kind,name):
+		self.kind=kind
+		self.name=name
+	def printName(self):
+		print "name: ",self.name,"kind: ",self.kind
+class cat(Animal):
+	def __init__(self,kind,name,shout):
+		#self.kind=kind
+		#self.name=name
+		super(cat,self)._init__(name,kind)
+		self.shout=shout
+	def shoutout(self)
+		print self.shout
+c1=cat('cat1','black','meow')
+c1.shouout()
+c1.printName()
+
+example2:
+class Animal(object):
+	def __init__(self,nmae)
+		self.name=name
+	def _str__(self)
+	        pritn self.name
+animal=Animal('cat')
+print animal
+
+	

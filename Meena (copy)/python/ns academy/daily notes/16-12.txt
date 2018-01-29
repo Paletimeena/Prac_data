@@ -1,0 +1,53 @@
+cconnpath where sql data base is saved
+....
+#to access data base
+show databases;
+create database lms;
+use lms;
+show tables;
+...................
+
+create database batch12;
+create table students(
+id int auto_increment,name varchar(50),
+email varchar(50),rollno int(20));
+
+select coutn(*) from students//gives the total no of rows
+select * from sstudent where rollno like '1bh%';
+#gives only the rooll no starts with 1bh
+select * from sstudent where rollno like '1bh%',limit 1;
+#limits to only one students
+update student where id=1,
+set email='paletimeena@gmail.com'
+#to update the row
+
+#to get the max value in table
+select max(id) from students;
+#to get the min id from students
+select min(id) from students;
+#to get sum of marks from student table
+select sum(marks) from students;
+#atomsity: -isolated either true or falls
+#conistency: -each 1st query need to be considered 1st 
+and 2nd should get update
+#durability:-the data shoud be stored in such 
+way that any time we can acces
+#data conistency and durability problems
+#Analomy :the required data is not present in the table.
+#Normalize:the unwanted data has to be removed from the table.
+#connect ,get cursor,work with result set,stop.
+
+#pip install pymsql
+#import pymysql
+##step1:connect:conn=pymsql.connect
+('local host','root','test@123','batch12')
+#step2: coursor-:cursor=conn.cursor()
+
+#step3: work with result
+cursor.execute('select *from students')
+students=cursor.fetchall()
+for students in students:
+	print student
+
+#step4: colse the connections
+conn.close()
